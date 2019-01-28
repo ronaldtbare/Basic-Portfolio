@@ -11,7 +11,7 @@ body {
     background-color: #dddddd;
 }
 
-
+/* header stuff */
 
 header {
     background-color: #ffffff;
@@ -63,6 +63,8 @@ nav li a:hover {
     color: #aaaaaa;
     font-size: 22px;
 }
+
+/* about stuff */
 
 .main {
     background-color: #ffffff;
@@ -117,7 +119,7 @@ img {
 .gallery {
     background-color: #ffffff;
     border-top: 4px solid  #cccccc;
-    padding-top:10px;
+    padding-top:5px;
     margin: 0 auto;
     margin-left: 20px;
     margin-right: 20px;
@@ -136,6 +138,82 @@ form input, textarea{
     font-size: 24px;
     
 }
+
+/* porfolio page */
+
+.photopod {
+    position: relative;
+    text-align: center;
+    margin:0;
+    
+}
+
+.pics{
+    position: relative;
+    text-align: center;
+}
+
+.piclabelbiker{
+    position: absolute;
+    background-color: #4aaaa5;
+    top: 138px;
+    left: 21px;
+    padding-left: 60px;
+    padding-right: 53px;
+    
+}.piclabelceiling{
+    position: absolute;
+    background-color: #4aaaa5;
+    top: 138px;
+    left: 21px;
+    padding-left: 53px;
+    padding-right: 48px;
+    
+}
+
+.piclabelcliff {
+    position: absolute;
+    background-color: #4aaaa5;
+    top: 138px;
+    left: 21px;
+    padding-left: 59px;
+    padding-right: 63px;
+    
+}
+.piclabelclouds{
+    position: absolute;
+    background-color: #4aaaa5;
+    top: 138px;
+    left: 21px;
+    padding-left: 66px;
+    padding-right: 35px;
+    
+}
+.piclabelsurf{
+    position: absolute;
+    background-color: #4aaaa5;
+    top: 138px;
+    left: 21px;
+    padding-left: 66px;
+    padding-right: 54px;
+    
+}
+.piclabelswim{
+    position: absolute;
+    background-color: #4aaaa5;
+    top: 138px;
+    left: 21px;
+    padding-left: 35px;
+    padding-right: 42px;
+    
+}
+
+
+
+
+/* footer  */
+
+
 #envelope{
     min-height: 100%;
 
